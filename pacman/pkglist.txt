@@ -1,0 +1,15 @@
+alacritty 0.17.0-1.1
+brave-bin 1:1.89.145-1
+discord 1:1.0.137-1
+eza 0.23.4-3.1
+kitty 0.46.2-1.1
+lazygit 0.61.1-1.1
+legcord 1.2.4-1
+neovim 0.12.2-1.1
+paru 2.1.0-2
+proton-vpn-gtk-app 4.16.1-1
+protonplus 0.5.20-1
+starship 1.25.1-1
+tailscale 1.96.4-1.1
+tmux 3.6_a-1.1
+zoxide 0.9.9-2.1
