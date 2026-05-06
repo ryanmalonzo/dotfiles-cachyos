@@ -1,0 +1,25 @@
+[commit]
+    gpgSign = true
+
+[core]
+    editor = "nvim"
+
+[gpg]
+    format = "ssh"
+
+[init]
+    defaultBranch = "main"
+
+[pull]
+    rebase = true
+
+[rebase]
+    updateRefs = true
+
+[tag]
+    gpgSign = true
+
+[user]
+    email = "64932650+ryanmalonzo@users.noreply.github.com"
+    name = "Ryan Malonzo"
+    signingKey = "/home/ren/.ssh/ryanmalonzo.pub"
